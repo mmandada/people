@@ -11044,6 +11044,24 @@
       "image": "maksym-kursin.jpg"
    },
    {
+      "name": "Manaswi Mandadapu",
+      "bio": "<p>DevOps & Cloud Data Engineer</p>",
+      "company": "",
+      "pronouns": "He/Him",
+      "location": "Newport Beach, California, United States",
+      "linkedin": "https://www.linkedin.com/in/manswm-961738/",
+      "twitter": "",
+      "github": "",
+      "wechat": "",
+      "website": "",
+      "youtube": "",
+      "category": [
+         "Kubestronaut"
+      ],
+      "slack_id": "U07PA7E5Z18",
+      "image": "Manaswi-M.jpeg"
+   },
+   {
       "name": "Maksym Petrychenko",
       "bio": "<p>I am a professional Cloud Architect and DevOps Team Lead in our company, specializing in designing and implementing solutions on top of Kubernetes. My expertise includes automating infrastructure, optimizing CI/CD pipelines, and enhancing application scalability and resilience.</p>",
       "company": "https://itechcraft.com",
